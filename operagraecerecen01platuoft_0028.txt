@@ -1,0 +1,49 @@
+xx PRAEFATIO
+
+a vero distant. Scilicet significatur numerus minimus productus ex
+aliis numeris per incrementa illa effectis, qui numeri ita debent com-
+parati esse, ut tribus intervallis et quatuor terminis quibusdam posi—
+tis omnia appellationem eandem accipiant et effabilia fiant. Sed pri-
+mum omnium declarandum est, quae illa incrementa sint. αὐξήσεις
+dicuntur δυνάμεναί τε καὶ δυναστευόμεναι. αὐξήσεις autem constat
+dici incrementa ea, quibus numerus aliquis per semet ipsum multipli-
+catus augetur. Porro δύνασθαι significat vim, qua praeditus est
+numerus vel linea ad quadratum ex sese producendum; ut δύο δύ-
+ναται τέτταρα, δίπους δύναται τετράπουν. δυναστεὺεσθαι autem,
+cuius verbi in mathematicis exemplum aliud reperire non memini,
+quum haud dubie oppositum sit activo δύνασθαι, oppositam rationem
+significet necesse est, qua exempli gratia quadrupedale quadratum
+productum a linea bipedali eius quasi imperio et dominatui subiectum
+sit. Itaque αὔξησις δυναμένη τε καὶ δυναστευομένη brevius dicitur
+incrementum per multiplicationem radicis seu lateris et quadrati mu-
+tuam factum. Quum vero actio ipsa augendi, quae proprie dicitur
+αὔξησις, neque intervalla neque terminos accipere possit, quae non
+sunt nisi numerorum vel magnitudinum, hoc loco numeros per eius-
+modi αὐξήσεις effectos αὐξήσεις obscurius dici intelligitur: ii vero
+cubi sunt. confirmatur haec explicatio iis, quae deinde effecta per
+illas αὐξήσεις dicuutur, ut quatuor terminis positis omnia προσήγορα
+καὶ ῥητοὶ πρὸς ἄλληλα praestent, quod ad eosdem cubos ducit. προ-
+σήγορα enim πρὸς ἄλληλα in numeris sunt, quibus inter ipsa com-
+paratis eadem convenit appellatio, velut quum quatuor deinceps pro-
+positi sunt numeri rationem sesquialteram habentes, haec ipsa ἡμιολίου
+appellatio convenit omnibus. ῥητὰ autem seu effabilia ea sunt, quae
+dici et pronuntiari possunt3 ut sesquialterum quaternarii senarius, se-
+narii novenarius, novenarii autem non item dici , quamquam et cogi-
+tari et oculis conspici potest sesquialterum. Itaque 4, 6, 9, et προ-
+σήγορα sunt et ῥητοὶ πρὸς ἄλληλα, quartum terminum, qui idem sit
+προσήγορος et ῥητὸς πρὸς αὐτοὶ, non recipiunt, Iam theorema est
+Euclidis Lib. VllI. 12: δύο κύβων ἀριθμῶν δύο μέσοι ἀνάλογόν
+εἰσιν ἀριθμοί. Quando igitur iubemur numeros ponere, qui quatuor
+in terminis omnia προσήγορα καὶ ῥητὰ πρὸς ἄλληλα efficiant, cubos
+si posuerimus, procul dubio fieri iussum poterit. Quae quum ita sint,
+porro videndum, quot et quos cubos ponamus; quod utrumque mon·-
+strant verba ἐν ᾧ πρώτῳ. Nam numerus, in quo primo cubi siut,
+haud dubie is est, in quo duo minimi sunt. Sed aliud praeterea re-
+quiritur hoc, ut interpositis inter cubos istos pro una tribus distantiis
+seu intervallis (ἀποκαταστάσεις, quod aute Bekkerum vulgo legebatur,
+etiam sine codicum auctoritate corrigendum erat) quatuor exsistant
+termini ὁμοιούντων τε καὶ ἀνομοιούντων καὶ αὐξόντων καὶ φθινόν-
+των. Quorum verborum significationem Barocius secundum Fabrum
+exposuit, quam multis probare non opus est, quum satis certum sit
+ὁμοίους numeros esse, quorum latera in eadem ratione suut, ut quo
+

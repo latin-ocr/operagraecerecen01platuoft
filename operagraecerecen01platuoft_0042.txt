@@ -1,0 +1,50 @@
+xxxnn PRAEFATIO
+
+lem industriam superioris aevi longissime ab hodierna nonnullorum
+levitate remotam ostendunt et in eiusmodi rebus versantur, quarum
+disciplina, quum ad intelligendos philosophos Graecos, inprimis Pla-
+tonem, maxime conducat, hodie minime quaeritur. Nam quotus—
+quisque est, qui veteres arithmeticos legat? In recensendis autem sin-
+gulis ex duabus rationibus, quae poterant institui, ut aut summae
+sententiarum referrentur, aut ipsi sua oratione loquentes quasi in
+scenam producerentur, lianc, quod et tutior esset et ad docendum
+accommodatior, sequendam rati tamen, quoniam futurum erat, utne
+huius quidem scriptionis sines omnium omnia caperent verba, nonnul-
+lorum sententias ex fideli Francisci Barocii relatione summatim exhi-
+buimus: reliquorum, quos Italus aut non vidit aut videre non potuit,
+omnia dedimus, passim correcta et a vitiis purgata, interdum etiam,
+ubi obscuriora essent, explicata3 quibus locis parentheseos signis uo—
+stra ab alienis distinximus. Sed Platonis ipsius verba, quae leguntur
+Civitatis libro VIII. p. 546. Steph. praescribere supervacaneum vide-
+batur, quod et omnibus aditus ad ea pateret, et in sequentibus ali-
+quoties ponenda essent.
+
+His praefationis loco dictis statim subiicimus Iambliclii Chalci-
+densis de numero Platonis sententiam, quam exposuit in libro περὶ
+τῆς Νικομάχου ἀριθμητικῆς εἰσαγωγῆς, edito aTennulio Arnlie—
+miae MDGLXVHI. eo capite, quod est περὶ ἑτερομηκῶν ἀριθμῶν,
+p. 115—117. Ἐπεὶ οἱ μὲν τετράγωνοι δυνάμεις εἰσὶν ἰδίῳ τινῶν
+μήκει αὐξηθέντων ἀριθμῶν, ἑτερομήκεις δὲ οὐκ ἰδίῳ, ἄλλ’ ἑτέρῳ,
+οὐκ ἀπεικότως ἑτερομήκεις ἐκλήθησαν, οὗ κατ’ ἆντιδιαστολὴν τοὺς
+τετραγώνους οὐκ ἦν ἀπρεπὲς ἰδιομήκεις καλεῖν. (haec conferenda
+sunt cum loco Nicomachi in εἰσαγ, lib. ΙΙ. cap. 18. p. 132. ed. Ast.
+ου’κοῧν ὅτι μὲν οἱ τετράγωνοι ὑπὸ τινῶν ἀριθμῶν τῷ ἰδίῳ μήκει
+μηκυνθέντων γίνονται, ταύτὸν ἔχοντες τὸ πλάτος τῷ μήκει, ἰδιο-
+μήκεις ἂν κυρίως καὶ ταυτομήκεις λέγοιντο.) Οἱ δὲ παλαιοὶ ταυ-
+τούς τε καὶ ὁμοίους αὐτοὺς ἐκάλουν, διὰ τὴν περὶ τοὶς πλευράς τε
+καὶ γωνίας ὁμοιότητα καὶ ἰσότητα, ἀνομοίους δὲ ἐκ τοῦ ἐναντίου
+καὶ θατέρους (ita scribendum pro θατέρου, atque ita scriptum est
+in codice Cizensi.) τοὺς ἑτερομήκεις. Ἐν δὲ τῇ ἐκθέσει ἑκατέρου
+εἴδους οἱ μὲν ἕνα παρ’ ἕνα περισσοὶ καὶ ἄρ τιοι γενήσονται, ὅτι οἱ
+τοιοῦτοι αὐτοὺς αὐξάνουσιν, οἱ δ’ ἑτερομήκεις πάντες ἄρτιοι, ὅτι
+περισσὸς ἄρτιον, ἢ ἄρτιος περισσὸν μηκύνει. πᾶς δὲ περισσὸς κατ’
+ἄρτιον αὐξηθεὶς ἄρτιον γεννᾷ. Καὶ ἐπεὶ ἐνταῦθα λόγου ἐσμὲν,
+ἰστέον, ὅτι χρήσιμον ἡμῖν τοῦτο ἔσται τὸ παράδειγμα (dicit ἔκθε-
+σιν ἓκα-ι-έρου εἴδους στιχηδὸν faciendam, qualem paullo post a Bul-
+lialdo institutam videbis.) εἰς τὸν ἐν τῇ Πλάτωνος Πολιτείᾳ γαμικὸν
+ἀριθμὸν, ἔνθα φησὶν ἐκ δύο ἀγαθοῖν οἷγαθογονίαν πάντως ἔσεσθαι
+καὶ ἐκ δύο τῶν ἐναντίων τὸ ἐναντίον, ἐκ δὲ μικτῶν πάντως κακο-
+γονίαν, οὐδέποτε δὲ οἶγαθογονίαν. Καὶ γὰρ ἐκ μὲν τῆς τῶν πε-
+ρισσῶν καθ’ ἑαυτοὺς συνόδου καὶ ἐπισυνθέσεως (Tennulius male
+ἐπὶ συνθέσεως) ἡγουμένης μονάδος ἐγίνοντο τετράγωνοι τῆς τᾶγα-
+
